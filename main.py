@@ -71,7 +71,7 @@ def add_page_numbers(input_pdf, roman_intervals, arabic_intervals):
     return output_pdf
 
 # Streamlit app layout
-st.title("PDF Page Numbering App with Intervals")
+st.title("PDF page editor for **Nisafitahiantsoa 😊😊**")
 st.write("Upload a PDF file, then enter page intervals for Roman and Arabic numbering.")
 
 # PDF file uploader
